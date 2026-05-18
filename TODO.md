@@ -1,0 +1,1 @@
+- 2026-05-18: Consider migrating npm repos under `~/Documents/{github,work}/*` to pnpm. Quick scan: 24 direct `package.json` repos, 19 npm lockfiles, 1 yarn lockfile, 22 `node_modules` dirs totaling about 9.5 GB. Likely easy for small npm repos, needs care for `memex-v2`, `memex-v2-old-functions`, `taxing-desktop` workspaces, and separate decision for Yarn-era `work/Memex`.
