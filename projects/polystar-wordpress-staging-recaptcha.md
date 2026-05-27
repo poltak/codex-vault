@@ -43,3 +43,10 @@ Related staging plugin update caveats from same rollout:
 - Keep `jquery-updater` at `3.7.1.3`; version `4.0.0` broke Woo checkout JS.
 - Keep `uk-address-postcode-validation` at `3.3.0`; version `4.3.0` broke Ideal Postcodes lookup.
 - Stripe plugin worked at `woocommerce-gateway-stripe 10.4.0`; `10.7.0` caused Stripe `clover`/`apiVersion` JS failure.
+
+Production rollout note, 2026-05-27:
+- Full prod backup made at `/home/polystar/update-backups/prod-rollout-20260527T024110Z`.
+- Safe plugin batch applied to production; known holds kept: `jquery-updater 3.7.1.3`, `uk-address-postcode-validation 3.3.0`, `woocommerce-gateway-stripe 10.4.0`.
+- Contact form submit and test order were verified after safe batch.
+- Gravity Forms updates are blocked by expired client license: `gravityforms 2.8.18 -> 2.10.2` and `gravityformsrecaptcha 1.6.0 -> 2.2.2` both fail with `Update package not available`.
+- GF console errors may remain until the license is renewed, but forms still submitted during production smoke test.
