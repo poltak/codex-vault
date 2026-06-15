@@ -8,6 +8,7 @@ Installed on 2026-06-15.
 - Official MCPB package unpacked at `/Users/lamhucminh/.codex/mcp/blender-lab-1.0.0`.
 - Codex global MCP entry `blender` runs:
   `/Users/lamhucminh/.local/bin/uv run --project /Users/lamhucminh/.codex/mcp/blender-lab-1.0.0 blender-mcp`
+- Codex global MCP entry includes `BLENDER_PATH=/Applications/Blender.app/Contents/MacOS/Blender`; the `_for_cli` tools need this because `blender` is not on PATH.
 
 Smoke test passed by starting Blender headless with `--command blender_mcp`, invoking the MCP `execute_blender_code` tool, creating `Codex_MCP_Smoke_Cube` and `Codex_MCP_Test_Area_Light`, then saving `/Users/lamhucminh/Documents/Codex/2026-06-15/so-i-just-installed-blender-on/outputs/blender-mcp-smoke.blend`.
 
