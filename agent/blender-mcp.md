@@ -1,5 +1,15 @@
 # Blender MCP
 
+Removed on 2026-06-17 to restore a vanilla demo state.
+
+- Removed Codex global MCP entry `blender`.
+- Removed Blender user extension `mcp`.
+- Removed `/Users/lamhucminh/.codex/mcp/blender-lab-1.0.0`.
+- Removed installer artifacts from the Codex thread workspace.
+- Set Blender `use_online_access` back to `False`.
+
+Historical install details below are kept only as reinstall notes.
+
 Installed on 2026-06-15.
 
 - Blender app: `/Applications/Blender.app`, verified `Blender 5.1.2`.
