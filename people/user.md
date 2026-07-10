@@ -1,0 +1,3 @@
+- 2026-07-10: Actively seeking paid software-engineering work after a prolonged period on non-revenue indie products; lack of income is creating daily pressure for the user and his wife.
+- 2026-07-10: Job search constraint is remote-only while physically located in Viet Nam. Prioritize worldwide-remote and APAC-compatible roles; reject hybrid, on-site, and country-locked remote roles that cannot hire in Viet Nam.
+- 2026-07-10: Never submit an application, upload a resume, email or message an employer/recruiter, or otherwise represent the user externally without explicit approval for that specific action. Research, drafting, local portfolio work, and application preparation are allowed.
