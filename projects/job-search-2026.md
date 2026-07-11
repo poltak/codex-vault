@@ -10,7 +10,7 @@ Do not submit applications, upload files, send email or direct messages, contact
 
 ## Positioning
 
-Senior full-stack product engineer with 10+ years of experience. Anchor on nine years building Memex across browser extensions, React Native, web, Node.js, Firebase, Cloudflare, and PostgreSQL/Supabase.
+Senior full-stack product engineer with 10+ years of experience. Employer-facing current title: Lead Engineer. Anchor on nine years building Memex across browser extensions, React Native, web, Node.js, Firebase, Cloudflare, and PostgreSQL/Supabase.
 
 Strong evidence:
 
@@ -28,7 +28,12 @@ Strong evidence:
 - Candidate is physically located in Viet Nam.
 - Prefer worldwide remote and APAC-compatible hours.
 - Verify hiring-country eligibility before treating a role as ready.
-- Confirm employment/contract preference, work authorization, salary floor, timezone overlap, and formal Memex title before submission.
+- Available 10-40 hours/week; part-time preferred, full-time acceptable; can start ASAP.
+- USD 100,000+ annualized full-time-equivalent target and USD 50/hour minimum.
+- Normal US-hours overlap ends by 10:00 p.m. Viet Nam time.
+- All standard employment and contract arrangements are acceptable.
+- Reports temporary residency through marriage, work-permit exemption, and no sponsorship requirement in Viet Nam.
+- De-prioritize crypto/wallet-specific roles because product interest is low; browser-product interest remains high.
 
 ## Current priority roles
 
@@ -48,11 +53,11 @@ Prezly is a warm-relationship path only because the current role requires CET pl
 
 ## Next decisions
 
-- Legal work authorization and supported employment arrangement while in Viet Nam.
-- Minimum compensation and preferred currency.
-- Acceptable US/EU timezone overlap.
-- Earliest start date.
-- Exact formal title and relationship to WorldBrain/Memex.
+- Resolve whether Turing's four Pacific-overlap hours can fit the 10:00 p.m. Viet Nam cutoff.
+- Approve or replace role-specific figures: Automattic USD 120,000; X-Team USD 50/hour; Toptal USD 60/hour; Turing USD 50/hour; Teramind USD 9,000/month.
+- Confirm Automattic's personal AI-workflow and feedback-loop wording.
+- Confirm willingness to learn Rust before advancing Sequent.
+- Clarify exact personal app-store submission responsibility and complete the measurable search-evaluation result.
 - Which role to approve first after reviewing the drafts.
 
 Related: [[user]]
