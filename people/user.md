@@ -6,4 +6,10 @@
 - 2026-07-11: Reports temporary residency in Viet Nam through marriage, work-permit exemption, and no need for employer sponsorship. Reports Vietnamese tax residency and Australian non-resident tax status; do not make or volunteer tax conclusions without professional verification.
 - 2026-07-11: Employer-facing Memex title is Lead Engineer; Memex is a partnership with his cofounder. Reports seven years of production React Native/Expo experience and releases through WorldBrain/Memex Apple and Google accounts.
 - 2026-07-11: Interested in browser-product work but not particularly interested in crypto/wallet work. Has personally used Exodus wallet and Binance exchange; de-prioritize wallet-specific jobs unless he opts back in.
+- 2026-07-12: Freelanced for marketing agency Zest Digital approximately July 2025-June 2026, doing WordPress and Laravel development plus sysadmin tasks.
+- 2026-07-12: Personally managed Apple App Store and Google Play submissions and signing certificates through Fastlane for WorldBrain/Memex; cofounder handled review responses and store-listing data.
+- 2026-07-12: Designed a Memex search-evaluation harness from a point-in-time snapshot of real data in his own profile, measuring Hit@1, Hit@5, Hit@10, MRR, and chunk-hit metrics.
+- 2026-07-12: Does not want overnight work. Treat Turing's Pacific-overlap requirement as incompatible unless its required hours can end by 10 p.m. Viet Nam time.
+- 2026-07-12: Approved application figures: Automattic USD 120k/year, X-Team USD 50/hour, Toptal USD 60/hour with part-time first, Turing USD 50/hour, and Teramind USD 9k/month. These approvals do not authorize any submission or account action.
+- 2026-07-12: Genuinely interested in learning Rust and other new programming languages, especially lower-level work closer to the machine.
 - 2026-07-12: For local product testing, use the available browser directly without asking permission to launch or control Chrome. Report any authentication changes, including reset test-account passwords, in the final handoff.
