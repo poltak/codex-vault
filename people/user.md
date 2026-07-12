@@ -6,3 +6,4 @@
 - 2026-07-11: Reports temporary residency in Viet Nam through marriage, work-permit exemption, and no need for employer sponsorship. Reports Vietnamese tax residency and Australian non-resident tax status; do not make or volunteer tax conclusions without professional verification.
 - 2026-07-11: Employer-facing Memex title is Lead Engineer; Memex is a partnership with his cofounder. Reports seven years of production React Native/Expo experience and releases through WorldBrain/Memex Apple and Google accounts.
 - 2026-07-11: Interested in browser-product work but not particularly interested in crypto/wallet work. Has personally used Exodus wallet and Binance exchange; de-prioritize wallet-specific jobs unless he opts back in.
+- 2026-07-12: For local product testing, use the available browser directly without asking permission to launch or control Chrome. Report any authentication changes, including reset test-account passwords, in the final handoff.
