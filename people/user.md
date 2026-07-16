@@ -14,3 +14,5 @@
 - 2026-07-12: Approved application figures: Automattic USD 120k/year, X-Team USD 50/hour, Toptal USD 60/hour with part-time first, Turing USD 50/hour, and Teramind USD 9k/month. These approvals do not authorize any submission or account action.
 - 2026-07-12: Genuinely interested in learning Rust and other new programming languages, especially lower-level work closer to the machine.
 - 2026-07-12: For local product testing, use the available browser directly without asking permission to launch or control Chrome. Report any authentication changes, including reset test-account passwords, in the final handoff.
+- 2026-07-16: Age 35 and reports body weight around 73 kg. Current fitness goal is body recomposition: reduce excess body fat while increasing muscle.
+- 2026-07-16: Cycles three self-designed, time-efficient full-body gym routines (A/B/C with anchors), using intense supersets in roughly 30-40 minutes and aiming to train every two days, though commitments sometimes disrupt that cadence.
