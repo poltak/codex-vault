@@ -16,3 +16,4 @@
 - 2026-07-12: For local product testing, use the available browser directly without asking permission to launch or control Chrome. Report any authentication changes, including reset test-account passwords, in the final handoff.
 - 2026-07-16: Age 35 and reports body weight around 73 kg. Current fitness goal is body recomposition: reduce excess body fat while increasing muscle.
 - 2026-07-16: Cycles three self-designed, time-efficient full-body gym routines (A/B/C with anchors), using intense supersets in roughly 30-40 minutes and aiming to train every two days, though commitments sometimes disrupt that cadence.
+- 2026-07-17: Most apparent 3-4-set exercises in the A/B/C routines are actually performed as two full working sets of about 20 reps followed by one or sometimes two myo-rep mini-sets of roughly 10 reps after 30 seconds of rest.
